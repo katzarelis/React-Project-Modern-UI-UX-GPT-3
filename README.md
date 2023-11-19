@@ -1,5 +1,7 @@
 # React Project: Modern UI/UX GPT-3 - Tutorial Follow-Along
 
+### [Preview](https://katzarelis.github.io/React-Project-Modern-UI-UX-GPT-3/?fbclid=IwAR1EZklFIfODJOrlqCmjZmr86HxXDVFngLgus7fS4_o6I9L3S_vO3pT57lc)
+
 This repository contains the code for a React project I created by following a tutorial. Throughout the learning process, I gained valuable insights into several key aspects of React development:
 
 - **React Functional Components and Reusability:** Explored the power of React's functional components, understanding their structure, and learning how to make them reusable across the project.
