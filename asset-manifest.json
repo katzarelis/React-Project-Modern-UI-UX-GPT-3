@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Project-Modern-UI-UX-GPT-3/static/css/main.1f21b30f.css",
+    "main.js": "/React-Project-Modern-UI-UX-GPT-3/static/js/main.ac3b60d7.js",
+    "static/media/ai.png": "/React-Project-Modern-UI-UX-GPT-3/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/React-Project-Modern-UI-UX-GPT-3/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/React-Project-Modern-UI-UX-GPT-3/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/React-Project-Modern-UI-UX-GPT-3/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/React-Project-Modern-UI-UX-GPT-3/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/React-Project-Modern-UI-UX-GPT-3/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/React-Project-Modern-UI-UX-GPT-3/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/React-Project-Modern-UI-UX-GPT-3/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/React-Project-Modern-UI-UX-GPT-3/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/React-Project-Modern-UI-UX-GPT-3/index.html",
+    "main.1f21b30f.css.map": "/React-Project-Modern-UI-UX-GPT-3/static/css/main.1f21b30f.css.map",
+    "main.ac3b60d7.js.map": "/React-Project-Modern-UI-UX-GPT-3/static/js/main.ac3b60d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f21b30f.css",
+    "static/js/main.ac3b60d7.js"
+  ]
+}
